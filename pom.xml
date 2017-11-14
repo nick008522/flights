@@ -121,7 +121,7 @@
 			<scope>provided</scope>
 		</dependency>
 		
-		<!-- non-mule depnedencies  --> 
+		<!-- non-mule depnedencies egit test  --> 
 		
 		<dependency> 		  
   		  	<groupId>org.apache.derby</groupId>
